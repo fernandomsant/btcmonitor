@@ -55,6 +55,9 @@ python main.py
 <br>
 
 Blob na azure
+<br>
 ![logs blob](images/logsblob.png)
+
 Preview dos dados
+<br>
 ![logs preview](images/logspreview.png)
